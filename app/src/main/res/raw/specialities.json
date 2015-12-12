@@ -1,0 +1,86 @@
+{
+    "Items": {
+        "Specialties" : [
+            {
+                "Type" : "AcePrivateHangar.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "AlsCustomChippers.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "BombingRange.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "BoomerangDojo.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "DartTrainingFacility.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "DartlingAmmoDump.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "EngineersWorkshop.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "GlueSupplyDepot.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "HeloHangar.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "IceFortress.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "MageSpire.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "MortarEmplacement.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "NinjaAcademy.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "PirateCove.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "RifleRange.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "SpecialtyLand.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "SpikesRUs.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "SubConstructionYard.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "SuperMonkeyLair.json",
+                "Level" : 4
+            },
+            {
+                "Type" : "TackResearchCenter.json",
+                "Level" : 4
+            }
+        ]
+    }
+}

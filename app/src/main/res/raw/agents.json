@@ -1,0 +1,50 @@
+{
+    "Items": {
+        "TowerInventory" : [
+            {
+                "Type" : "MeerkatSpyPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "TribalTurtlePro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "PortableLakePro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "PontoonPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "BloonsdayDevicePro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "AngrySquirrelPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "SuperMonkeyStormPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "BeeKeeperPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "BloonberryBushPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "RadadactylPro",
+                "Amount" : 1000
+            },
+            {
+                "Type" : "BananaFarmerPro",
+                "Amount" : 1000
+            }
+        ]
+    }
+}

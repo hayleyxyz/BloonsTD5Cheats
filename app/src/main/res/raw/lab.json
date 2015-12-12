@@ -1,0 +1,45 @@
+{
+    "Levels": {
+        "Lab" : [
+            {
+                "Type" : "AbilityCooldown",
+                "XP" : 80.0
+            },
+            {
+                "Type" : "AttackSpeed",
+                "XP" : 79.0
+            },
+            {
+                "Type" : "BigBloonSabotage",
+                "XP" : 83.0
+            },
+            {
+                "Type" : "DoublePierce",
+                "XP" : 78.0
+            },
+            {
+                "Type" : "SellAmount",
+                "XP" : 80.0
+            },
+            {
+                "Type" : "StartingCash",
+                "XP" : 80.0
+            },
+            {
+                "Type" : "StartingLives",
+                "XP" : 80.0
+            }
+        ]
+    },
+    "Upgrades" : {
+        "LabItems" : [
+            "DoublePierce",
+            "AttackSpeed",
+            "StartingCash",
+            "StartingLives",
+            "SellAmount",
+            "BigBloonSabotage",
+            "AbilityCooldown"
+        ]
+    }
+}
